@@ -1,11 +1,15 @@
-# Notatki: Windows i Active Directory (AD)
+# Moduł: Windows & Active Directory Fundamentals
 
-Większość firm korzysta z Active Directory do zarządzania tożsamością.
+Notatki dotyczące architektury systemu Windows oraz podstaw zarządzania tożsamością w firmach.
 
-### Kluczowe koncepcje:
-* **Active Directory (AD):** Usługa katalogowa zarządzająca użytkownikami, komputerami i uprawnieniami w sieci.
-* **Domain Controller (DC):** Serwer, który trzyma bazę danych AD i autentykuje użytkowników.
-* **Workgroups vs Domains:** Różnica między lokalnym zarządzaniem a centralnym zarządzaniem w domenie.
+### Podstawy Windows:
+* **File System:** Różnice między systemem NTFS a linuxowym (litery napędów, struktura `C:\Windows`, `Program Files`).
+* **Zarządzanie:** Użycie Task Managera (procesy) oraz Control Panelu do konfiguracji systemu.
 
-### Co zapamiętałem:
-AD to system naczyń połączonych. Błąd w uprawnieniach jednego użytkownika może pozwolić na przejęcie całej domeny (Domain Admin).
+### Active Directory (AD) - Koncepcje:
+* **Użytkownicy i grupy:** Centralne zarządzanie dostępem (zamiast tworzenia kont na każdym komputerze osobno).
+* **Domain Controller:** "Mózg" sieci, który weryfikuje kto ma prawo się zalogować.
+* **Workgroup vs Domain:** Rozróżnienie małych sieci domowych od dużych sieci korporacyjnych opartych na domenie.
+
+### Podsumowanie:
+Dla cyberbezpieczeństwa Windows jest ważny, bo to na nim pracuje większość użytkowników w biurach. Zrozumienie, czym jest Domena, pozwala zrozumieć, jak firmy pilnują swoich danych.
