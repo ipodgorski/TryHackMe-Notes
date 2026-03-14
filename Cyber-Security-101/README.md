@@ -7,7 +7,7 @@ To jest mój dziennik nauki dla podstawowej ścieżki bezpieczeństwa na platfor
 2. [🐧 Linux Fundamentals](./02-Linux-Fundamentals.md)
 3. [🪟 Windows & AD Basics](./03-Windows-AD-Basics.md)
 4. [⌨️ Command Line](./04-Command-Line.md)
-5. [🌐 Networking](./05-Networking.md)
+5. [🌐 Networking Essentials](./05-Networking-Essentials.md)
 
 ## 🛠️ Narzędzia Sieciowe:
 * ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) [Analiza Ruchu](./06-Wireshark-Basics.md)
