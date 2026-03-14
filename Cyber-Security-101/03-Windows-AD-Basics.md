@@ -13,3 +13,6 @@ Notatki dotyczące architektury systemu Windows oraz podstaw zarządzania tożsa
 
 ### Podsumowanie:
 Dla cyberbezpieczeństwa Windows jest ważny, bo to na nim pracuje większość użytkowników w biurach. Zrozumienie, czym jest Domena, pozwala zrozumieć, jak firmy pilnują swoich danych.
+
+---
+[⬅️ Poprzednia: Linux](./02-Linux-Fundamentals.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Networking ➡️](./05-Networking-Essentials.md)
