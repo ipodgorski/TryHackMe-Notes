@@ -12,4 +12,4 @@ Pierwszy krok w ścieżce Cyber Security 101, skupiający się na zrozumieniu r�
 Cyberbezpieczeństwo to nie tylko technologia, to przede wszystkim proces i odpowiednie podejście (mindset). Moduł ten uświadomił mi, jak szeroka jest to dziedzina i jak ważne jest sprawne poruszanie się w dokumentacji oraz źródłach publicznych (OSINT) podczas rozwiązywania problemów.
 
 ---
-[🏠 Strona główna](./Cyber-Security-101/) | [Następny: Linux Fundamentals ➡️](./02-Linux-Fundamentals.md)
+[🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Linux Fundamentals ➡️](./02-Linux-Fundamentals.md)
