@@ -1,15 +1,16 @@
-# Notatki: Linux Fundamentals
+# Moduł: Linux Fundamentals
 
-Zrozumienie systemu Linux jest kluczowe, ponieważ większość serwerów i narzędzi bezpieczeństwa opiera się na tym systemie.
+Notatki z nauki podstaw obsługi systemu Linux przez wiersz poleceń (CLI).
 
-### Kluczowe koncepcje:
-* **System uprawnień:** Każdy plik ma właściciela, grupę i uprawnienia (Read, Write, Execute).
-* **Struktura katalogów:** Zrozumiałem rolę katalogów `/etc` (konfiguracja), `/var/log` (logi systemowe) oraz `/home`.
+### Poruszanie się i pliki:
+* **Nawigacja:** Użycie `ls` (listowanie), `cd` (zmiana katalogu), `cat` (czytanie plików) oraz `pwd` (ścieżka).
+* **Wyszukiwanie:** Wykorzystanie polecenia `grep` do filtrowania wyników oraz `find` do lokalizowania plików w systemie.
+* **Operacje:** Tworzenie katalogów (`mkdir`), kopiowanie (`cp`) i przenoszenie/zmiana nazwy (`mv`).
 
-### Przydatne polecenia (CLI):
-* `ls -la` – pokazuje ukryte pliki i szczegółowe uprawnienia (kluczowe przy szukaniu luk w konfiguracji).
-* `cat /etc/passwd` – przeglądanie użytkowników systemu.
-* `find / -perm -u=s -type f 2>/dev/null` – szukanie plików z bitem SUID (częsty wektor eskalacji uprawnień).
+### Uprawnienia i użytkownicy:
+* **Struktura uprawnień:** Zrozumienie zapisu `drwxr-xr-x` (Owner, Group, Others).
+* **chmod:** Zmiana uprawnień (np. `chmod +x` dla skryptów).
+* **sudo:** Wykonywanie poleceń z uprawnieniami administratora (root).
 
-### Wniosek:
-W bezpieczeństwie Linux to nie tylko system operacyjny, to środowisko pracy. Najważniejsza lekcja: nigdy nie pracuj jako `root`, jeśli nie jest to absolutnie konieczne.
+### Co mi to dało?
+Zrozumiałem, że Linux to nie "czarna magia", tylko logiczny system plików, w którym wszystko jest plikiem. Umiejętność sprawnego poruszania się w terminalu to absolutna podstawa przed nauką narzędzi bezpieczeństwa.
