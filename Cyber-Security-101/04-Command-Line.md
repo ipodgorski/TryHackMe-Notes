@@ -19,4 +19,4 @@ Notatki z nauki obsługi interfejsu wiersza poleceń (CLI) w systemach Windows o
 CLI (Command Line Interface) pozwala na szybkość i automatyzację. Wiele narzędzi do testów bezpieczeństwa nie posiada okienek (GUI) – działają wyłącznie w konsoli. Zrozumienie różnic między PowerShellem a Bashem pozwala mi sprawniej pracować w różnych środowiskach systemowych.
 
 ---
-[⬅️ Poprzednia: Windows & AD](./03-Windows-AD-Fundamentals.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Networking ➡️](./05-Networking-Essentials.md)
+[⬅️ Poprzednia: Windows & AD](./03-Windows-AD-Basics.md). | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Networking ➡️](./05-Networking-Essentials.md)
