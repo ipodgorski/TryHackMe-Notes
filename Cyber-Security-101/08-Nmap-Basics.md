@@ -27,4 +27,4 @@ Standardowe, potężne narzędzie do rekonesansu sieciowego i skanowania portów
 * **Zapisywanie (`-oA <nazwa>`):** Zapisuje wyniki w 3 formatach naraz: Normalnym, XML (do narzędzi) i Grepable (do szybkiego filtrowania).
 
 ---
-[⬅️ Poprzednia: Tcpdump](./07-Tcpdump-Basics.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Wkrótce ➡️](#)
+[⬅️ Poprzednia: Tcpdump](./07-Tcpdump-Basics.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Cryptography ➡️](./09-Cryptography.md)
