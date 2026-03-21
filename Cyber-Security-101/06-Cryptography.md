@@ -24,7 +24,6 @@ Używa **tego samego klucza** do szyfrowania i deszyfrowania.
 | **3DES** | Wycofany | Potrójny DES, wolny i przestarzały. |
 | **AES** | **Standard** | Obecnie najbezpieczniejszy (128, 192, 256 bitów). |
 
-**Główny problem:** "Key Exchange Problem" – jak bezpiecznie przekazać hasło drugiej osobie, nie dając go przechwycić?
 
 ---
 
