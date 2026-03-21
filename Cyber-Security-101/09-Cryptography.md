@@ -36,3 +36,5 @@ Używa **pary kluczy**:
 * **RSA:** Opiera się na trudności faktoryzacji dużych liczb (zalecane min. 2048 bitów).
 * **ECC (Elliptic Curve):** Nowocześniejszy, oferuje wysokie bezpieczeństwo przy znacznie krótszych kluczach (np. 256 bitów ECC $\approx$ 3072 bity RSA).
 
+---
+[⬅️ Poprzednia: Nmap](./08-Nmap-Basics.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Soon ➡️]()
