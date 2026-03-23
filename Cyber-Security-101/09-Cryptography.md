@@ -37,4 +37,4 @@ Używa **pary kluczy**:
 * **ECC (Elliptic Curve):** Nowocześniejszy, oferuje wysokie bezpieczeństwo przy znacznie krótszych kluczach (np. 256 bitów ECC $\approx$ 3072 bity RSA).
 
 ---
-[⬅️ Poprzednia: Nmap](./08-Nmap-Basics.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Soon ➡️]()
+[⬅️ Poprzednia: Nmap](./08-Nmap-Basics.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Public Key ➡️](./10-Public-Key.md)
