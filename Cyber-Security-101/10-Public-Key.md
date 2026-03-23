@@ -25,3 +25,6 @@
 * **Importowanie klucza:** `gpg --import <plik>`
 * **Deszyfracja:** `gpg --decrypt <plik.gpg>`
 * **Łamanie hasła klucza:** `gpg2john <klucz> > hash` -> `john hash`
+
+
+[⬅️ Poprzednia: Cryptography](./09-Cryptography.md) | [🏠 Spis treści ścieżki](./README.md) | [Następna lekcja: Soon ➡️]()
